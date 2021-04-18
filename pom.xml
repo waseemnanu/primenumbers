@@ -11,10 +11,11 @@
 	<groupId>com.rbs.primenumbers</groupId>
 	<artifactId>primenumbers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<packaging>jar</packaging>
+	<name>primenumbers</name>
 	<description>Rest API for fetching prime numbers</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
